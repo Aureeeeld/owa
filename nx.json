@@ -13,6 +13,12 @@
     },
     "bot": {
       "tags": []
+    },
+    "webapp": {
+      "tags": []
+    },
+    "webapp-e2e": {
+      "tags": []
     }
   }
 }
