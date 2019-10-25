@@ -48,7 +48,7 @@ yarn serve [app-name]
 
 👨‍💼 **Aureeeeld**
 
-- Github: [@Nolat](https://github.com/Aureeeeld)
+- Github: [@Aureeeeld](https://github.com/Aureeeeld)
 
 
 ## 🤝 Contributing
