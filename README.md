@@ -45,10 +45,14 @@ yarn serve [app-name]
 - Github: [@Saiiga](https://github.com/Saiiga)
 
 
-
 👨‍💼 **Aureeeeld**
 
 - Github: [@Aureeeeld](https://github.com/Aureeeeld)
+
+
+👨‍💼 **V3ktor**
+
+- Github: [@V3ktor](https://github.com/V3ktor)
 
 
 ## 🤝 Contributing
