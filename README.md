@@ -50,9 +50,9 @@ yarn serve [app-name]
 - Github: [@Aureeeeld](https://github.com/Aureeeeld)
 
 
-👨‍💼 **V3ktor**
+👨‍💼 **V3ktore**
 
-- Github: [@V3ktor](https://github.com/V3ktor)
+- Github: [@V3ktore](https://github.com/V3ktore)
 
 
 ## 🤝 Contributing
